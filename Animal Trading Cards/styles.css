@@ -1,0 +1,49 @@
+img {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    width: 300px;
+}
+
+p {
+    font-family: "Times New Roman";
+}
+
+.container {
+    display:flex;
+    flex-wrap:wrap;
+    width:310px;
+    margin:auto;
+    border: 1px solid gray;
+    padding:1%;
+    box-shadow: 10px 10px lightgray;
+}
+
+.heading {
+    width: 300px;
+    text-align: left;
+    font-size: 1.5em;
+}
+
+.labelheading {
+    font-weight: bold;
+    margin-left: 0;
+}
+
+li {
+    list-style-type: none;
+    text-align: left;
+    margin-left: 0;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.text {
+    border: 1px solid gray;
+    padding:2%;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 300px;
+}
